@@ -1,0 +1,30 @@
+﻿B站演示链接：https://www.bilibili.com/video/BV1MT4y1n7Rv
+嘉立创链接：https://oshwhub.com/muzixiaoxiaoyang/dian-dong-hui-juan-mu-zi-xiao-yang
+GITHUB链接：https://github.com/muzixiaoyang/3Dprinter-Electric-rewind---filament-rewind---multi-color-printing
+
+
+在多色打印过程中，
+如果不能解决回卷中缠绕，
+将会影响下一次耗材的送料与打印
+
+被动回卷的优势在于无电子元器件的参与，
+但是会存在着阻力过大，结构复杂，体积较大的问题等
+
+所以在开发木子多色的过程中，
+特意为诸如兔子多色，TR多色等，
+其他类别的多色打印预备了一套电动回卷装置
+优势：价格便宜相当便宜，结构简单，稳定性强，工作时间长，回卷距离长
+缺点：需要占用一个或多个USB
+
+感谢Yanshimi大佬的支持与帮助
+感谢群友待定老哥的思路与想法
+感谢群友青蛙哥文案与修饰
+
+声明，在使用，修改或转发过程请标明来源，未经本人允许不可进行商业行为，本人保留追诉权力
+
+					以后会出更多内容，可以关注一下不迷路
+										B站：木子小小阳
+										QQ交流群：738344037
+										更新日志：2024/1/10
+												
+
