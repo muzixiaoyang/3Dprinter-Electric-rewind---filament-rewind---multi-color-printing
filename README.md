@@ -1,5 +1,6 @@
 # 3Dprinter-Electric-rewind---filament-rewind---multi-color-printing
 【3D Printer】electric rewinf - filament rewind - multi-color printing
+【3D打印机】稳定至上的电动回卷-耗材回卷-多色打印
 
 During multi-color printing,
 If you can't solve the winding in the rewind,
